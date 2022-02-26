@@ -1,0 +1,27 @@
+.header-section{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    width: 90%;
+    padding-top: 20px;
+    margin: 0 auto;
+}
+.list-items{
+    width: 40%;
+    display: flex;
+    justify-content: flex-start;
+}
+.list-item{
+    padding-left: 25px;
+}
+.search-section{
+    align-items: center;
+}
+.search-section input{
+    /* align-items: center; */
+    /* outline: #fff; */
+    border-radius: 15px;
+    padding: 7px;
+    background: none;
+    border: 1px solid #fff;
+}
